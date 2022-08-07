@@ -14,5 +14,5 @@ On top of the above reasons, here are a few considerations I consider helpful fo
 - **Long content or communication**: consider using e-mail instead of instant message.
 - **Adding others**: never lose sight e-mail allows to easily add, copy and forward to other recipients.
 - **Information already available**: have you checked the intranet (or similar solution) yet?
-- **Are you available on..?**: Assume calendars are up to date.
+- **Are you available on..?**: Assume calendars are up to date and use the scheduling assistant instead.
 - **Am I the best person for this?**: if you're not sure I am, please don't assume I am.
